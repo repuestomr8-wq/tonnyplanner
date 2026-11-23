@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tonny Planner</string>
+    <string name="nav_today">Hoy</string>
+    <string name="nav_calendar">Calendario</string>
+    <string name="nav_tonny">Tonny</string>
+    <string name="nav_progress">Progreso</string>
+    <string name="selected_date_label">FECHA SELECCIONADA</string>
+    <string name="go_to_calendar_today">Hoy</string>
+    <string name="habits_section_title">Hábitos</string>
+    <string name="tasks_section_title">Tareas</string>
+    <string name="focus_button_label">Foco</string>
+    <string name="empty_day_title">Día libre con Tonny</string>
+    <string name="empty_day_subtitle">No tienes tareas ni hábitos programados para esta fecha.</string>
+    <string name="create_manual_cta">Crear manual</string>
+    <string name="create_voice_cta">Dictar a Tonny</string>
+    <string name="complete_task_cta">Completar tarea</string>
+</resources>

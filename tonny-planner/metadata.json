@@ -1,0 +1,10 @@
+{
+  "name": "Tonny Planner",
+  "description": "Planificador gamificado de tareas y hábitos con Tonny el capibara, modo foco y programación por voz.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
